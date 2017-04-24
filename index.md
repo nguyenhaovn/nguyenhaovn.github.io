@@ -1,22 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome Psyzone
 
-You can use the [editor on GitHub](https://github.com/nguyenhaovn/nguyenhaovn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Chào mừng bạn đến với Psyzone - ngôi nhà thứ hai, nơi lắng nghe, chia sẻ mọi tâm tư tình cảm của bạn!
+Trang Web đang được hoàn thiện với nhiều tính năng tiện ích hơn, sẽ sớm sẵn sàng phục vụ bạn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dịch vụ cung cấp
 
-### Markdown
+Chúng tôi cung cấp các dịch vụ:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tên Dịch Vụ | Bảng Giá | Ghi Chú
+------------ | ------------- | ------------- 
+Tâm lý người lớn | 600.000 vnđ ca | trên 18 tuổi
+Tâm lý trẻ em | 400.000 vnđ ca | dưới 18 tuổi
+Test đánh giá phát triển trẻ em | 400.000 vnđ - 600.000vnđ ca | dưới 18 tuổi, tùy loại test
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Khám / Tư vấn tâm lý người lớn
+- Khám / Tư vấn tâm lý trẻ em (dưới 18 tuổi)
+- Làm test / đánh giá phát triển trẻ em (dưới 18 tuổi)
 
 1. Numbered
 2. List
