@@ -24,4 +24,4 @@ Phan Thi Thanh | Bệnh Viện ABC | Chuyên ngành XYZ
 - Địa chỉ: 141 Đường D3, Quận Bình Thạnh, Tp. Hồ Chí Minh
 - Số điện thoại: <a href="tel:0909275xxx">0909275xxx</a> (Ms T)
 - Giờ làm việc: 10h sáng - 20h chiều (thứ 7 và CN có làm việc)
-- Email liên hệ: <a href="mailto:abc@gmail.com?Subject=Hello%20again">abc@gmail.com</a>
+- Email liên hệ: <a href="mailto:support@psyzone.live?Subject=Hello%20again">support@psyzone.live</a>
