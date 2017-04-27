@@ -19,7 +19,7 @@ Chuyên gia | Đơn vị Công tác | Chuyên môn
 ------------ | ------------- | ------------- 
 Phan Thi Thanh | Bệnh Viện ABC | Chuyên ngành XYZ
 
-Image <img src="beach_slide.jpg" height="42" width="420">
+Image <img src="beach_slide.jpg">
 
 ### Liên hệ
 
