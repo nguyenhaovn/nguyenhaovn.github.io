@@ -19,6 +19,8 @@ Chuyên gia | Đơn vị Công tác | Chuyên môn
 ------------ | ------------- | ------------- 
 Phan Thi Thanh | Bệnh Viện ABC | Chuyên ngành XYZ
 
+Image <img src="https://goo.gl/photos/uuzA1cLFPmwtaBxa7" alt="Smiley face" height="42" width="420">
+
 ### Liên hệ
 
 - Địa chỉ: 141 Đường D3, Quận Bình Thạnh, Tp. Hồ Chí Minh
