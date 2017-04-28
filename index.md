@@ -22,8 +22,8 @@ Trắc nghiệm đánh giá phát triển trẻ em | 400.000 vnđ - 600.000vnđ 
 Chuyên gia | Đơn vị Công tác | Chuyên môn
 ------------ | ------------- | ------------- 
 (Thạc sỹ) Nguyễn Thị Diệu Anh | Khoa Tâm Lý - Bệnh Viện Nhi Đồng 1 | Tâm lý người lớn / trẻ em
-(Thạc sỹ) Phan Ngọc Thanh Trà | Tổ chức Cô nhi thế giới - <a target="_blank" href="http://www.wwo.org.vn/our_team.html?hl=en">WWO Việt Nam</a> | Tâm lý / Trắc nghiệm đánh giá phát triển trẻ em
-(Chuyên gia) Tạ Minh Đức | Tổ chức Cô nhi thế giới - <a target="_blank" href="http://www.wwo.org.vn/our_team.html?hl=en">WWO Việt Nam</a> | Tâm lý người lớn / trẻ em
+(Thạc sỹ) Phan Ngọc Thanh Trà | Tổ chức Cô nhi thế giới - WWO Việt Nam | Tâm lý / Trắc nghiệm đánh giá phát triển trẻ em
+(Chuyên gia) Tạ Minh Đức | Tổ chức Cô nhi thế giới - WWO Việt Nam | Tâm lý người lớn / trẻ em
 
 <img src="resource/flower.jpg">
 
